@@ -4,3 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/amd64 golang:latest
+--platform=linux/amd64 php:latest
