@@ -10,3 +10,4 @@ php:latest
 golang:latest
 kalilinux/kali-rolling:latest
 kalilinux/kali-last-release:latest
+kalilinux/kali-last-snapshot:latest
