@@ -12,3 +12,5 @@ kalilinux/kali-rolling:latest
 kalilinux/kali-last-release:latest
 --platform=linux/amd64 ollama/ollama:latest
 --platform=linux/amd64 ollama/ollama:0.5.7
+--platform=linux/amd64 rabbitmq:4.1.2-management-alpine
+--platform=linux/amd64 rabbitmq:3.13.7-management-alpine
